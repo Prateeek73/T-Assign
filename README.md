@@ -108,5 +108,3 @@ export const FedExConfig = { ... };
 - Validate and test every new carrier integration.
 
 ---
-
-## No sugar coating. This documentation is direct, technical, and covers all aspects needed for extension, validation, and maintenance. For any new carrier, follow the architecture, config, and test patterns above.
